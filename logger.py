@@ -14,6 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Change #2
+
 import logging
 import sys
 from pythonjsonlogger import jsonlogger
